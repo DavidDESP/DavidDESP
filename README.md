@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DavidDESP
 - 👀 I’m from El Salvador and I'm interested in development, eager to learn more of Javascript daily to become a Full stack dev.
-- 🌱 I’m currently learning Javascript, MERN
 - 📫 david_segura92@hotmail.com
 
 <!---
